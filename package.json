@@ -2,10 +2,7 @@
   "name": "sqlite-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "(cd data && python Dashboard-script.py) && (cd.. && nodemon index.js)"
-  },
+  "main": "index.js",  
   "author": "",
   "license": "ISC",
   "dependencies": {
