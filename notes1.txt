@@ -1,1 +1,2 @@
 added from feature 1
+this is added from feature 3
